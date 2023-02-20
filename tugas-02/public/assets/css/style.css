@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+}
+
+.Table{
+    font-family: sans-serif;
+    color: #232323;
+    border-style: double;
+    margin-right: auto;
+}
+
+.footer{
+    border-style: double;
+    background-color: cyan;
+    text-align: center;
+    bottom: 0;
+
+}
+
+.biodata{
+    border-style: double;
+    text-align: left;
+    margin-left: auto;
+    float: right;
+}
+
+.head{
+    border-style: double;
+    background-color: cyan;
+    text-align: center;
+}

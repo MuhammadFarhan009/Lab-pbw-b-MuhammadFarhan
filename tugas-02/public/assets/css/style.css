@@ -1,5 +1,6 @@
 body {
     height: 100vh;
+    background-color:azure;
 }
 
 .Table{
@@ -12,6 +13,7 @@ body {
     margin-top: 10px;
     margin-bottom: 20px;
     border: 1px solid black;
+    text-align: center;
         
 }
 
@@ -34,4 +36,5 @@ body {
     border-style: double;
     background-color: cyan;
     text-align: center;
+    margin-top: 1px;
 }

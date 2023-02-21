@@ -6,7 +6,7 @@ body {
 
 .Table{
     font-family: sans-serif;
-    color: #232323;
+    color: darkseagreen;
     border-style: double;
     margin-right: auto;
     border-collapse: collapse;
@@ -33,7 +33,8 @@ body {
     border-style: double;
     text-align: left;
     float: right;
-    color: cornflowerblue;
+    color: rgb(232, 236, 237);
+    
 }
 
 .head{
@@ -58,4 +59,13 @@ th{
 
 td{
     color: red;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    background-color: rgb(137, 137, 152);
 }
